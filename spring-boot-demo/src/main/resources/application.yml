@@ -1,0 +1,8 @@
+spring:
+    datasource:
+      url: jdbc:mysql://47.98.39.109:3306/z?useUnicode=true&characterEncoding=utf8&autoReconnect=true
+      username: root
+      password: 123456
+mybatis:
+  type-aliases-package: com.dx.springboot.entity
+  config-location: classpath:mybatis.xml

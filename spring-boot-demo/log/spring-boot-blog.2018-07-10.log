@@ -1,0 +1,98 @@
+2018-07-10 18:24:06 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ Starting SpringBootDemoApplication on wanglongxu-PC with PID 9608 (D:\github\spring-boot-demo\target\classes started by wanglongxu in D:\github\spring-boot-demo) 
+2018-07-10 18:24:06 [restartedMain] DEBUG c.d.s.SpringBootDemoApplication : 
+ Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE 
+2018-07-10 18:24:06 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-07-10 18:24:15 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ Started SpringBootDemoApplication in 9.998 seconds (JVM running for 11.448) 
+2018-07-10 18:24:30 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE id=? and name=?  
+2018-07-10 18:24:30 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: 0(Integer), xiaohong2(String) 
+2018-07-10 18:24:30 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 0 
+2018-07-10 18:25:07 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE id=? and name=?  
+2018-07-10 18:25:07 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: 0(Integer), xiaohong2(String) 
+2018-07-10 18:25:07 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 0 
+2018-07-10 18:25:07 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.add : 
+ ==>  Preparing: insert into user(name, password) values (?,?)  
+2018-07-10 18:25:07 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.add : 
+ ==> Parameters: xiaohong2(String), 123456(String) 
+2018-07-10 18:25:21 [http-nio-8080-exec-2] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE id=? and name=?  
+2018-07-10 18:25:21 [http-nio-8080-exec-2] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: 0(Integer), xiaohong2(String) 
+2018-07-10 18:25:21 [http-nio-8080-exec-2] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 0 
+2018-07-10 18:26:38 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ Starting SpringBootDemoApplication on wanglongxu-PC with PID 9608 (D:\github\spring-boot-demo\target\classes started by wanglongxu in D:\github\spring-boot-demo) 
+2018-07-10 18:26:38 [restartedMain] DEBUG c.d.s.SpringBootDemoApplication : 
+ Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE 
+2018-07-10 18:26:38 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-07-10 18:26:39 [http-nio-8080-exec-2] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE id=? and name=?  
+2018-07-10 18:26:39 [http-nio-8080-exec-2] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: 0(Integer), xiaohong2(String) 
+2018-07-10 18:26:39 [http-nio-8080-exec-2] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 0 
+2018-07-10 18:26:39 [http-nio-8080-exec-2] DEBUG c.d.s.mapper.UserMapper.add : 
+ ==>  Preparing: insert into user(name, password) values (?,?)  
+2018-07-10 18:26:39 [http-nio-8080-exec-2] DEBUG c.d.s.mapper.UserMapper.add : 
+ ==> Parameters: xiaohong2(String), 123456(String) 
+2018-07-10 18:26:41 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ Started SpringBootDemoApplication in 2.822 seconds (JVM running for 157.487) 
+2018-07-10 18:26:47 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE id=? and name=?  
+2018-07-10 18:26:47 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: 0(Integer), xiaohong2(String) 
+2018-07-10 18:26:47 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 0 
+2018-07-10 18:28:09 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ Starting SpringBootDemoApplication on wanglongxu-PC with PID 9716 (D:\github\spring-boot-demo\target\classes started by wanglongxu in D:\github\spring-boot-demo) 
+2018-07-10 18:28:09 [restartedMain] DEBUG c.d.s.SpringBootDemoApplication : 
+ Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE 
+2018-07-10 18:28:09 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-07-10 18:28:17 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ Started SpringBootDemoApplication in 8.399 seconds (JVM running for 9.813) 
+2018-07-10 18:28:27 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE name=?  
+2018-07-10 18:28:27 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: xiaohong2(String) 
+2018-07-10 18:28:27 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 1 
+2018-07-10 18:28:38 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE name=?  
+2018-07-10 18:28:38 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: xiaohong2(String) 
+2018-07-10 18:28:38 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 1 
+2018-07-10 18:28:39 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE name=?  
+2018-07-10 18:28:39 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: xiaohong2(String) 
+2018-07-10 18:28:39 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 1 
+2018-07-10 18:28:45 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE name=?  
+2018-07-10 18:28:45 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: xiaohong2(String) 
+2018-07-10 18:28:45 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 1 
+2018-07-10 18:28:46 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE name=?  
+2018-07-10 18:28:46 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: xiaohong2(String) 
+2018-07-10 18:28:46 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 1 
+2018-07-10 18:28:47 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE name=?  
+2018-07-10 18:28:47 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: xiaohong2(String) 
+2018-07-10 18:28:47 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 1 

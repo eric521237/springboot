@@ -1,0 +1,38 @@
+2018-07-11 10:10:04 [main] INFO  c.d.s.SpringBootDemoApplicationTests : 
+ Starting SpringBootDemoApplicationTests on wanglongxu-PC with PID 4632 (started by wanglongxu in D:\github\spring-boot-demo) 
+2018-07-11 10:10:04 [main] DEBUG c.d.s.SpringBootDemoApplicationTests : 
+ Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE 
+2018-07-11 10:10:04 [main] INFO  c.d.s.SpringBootDemoApplicationTests : 
+ No active profile set, falling back to default profiles: default 
+2018-07-11 10:10:08 [main] INFO  c.d.s.SpringBootDemoApplicationTests : 
+ Started SpringBootDemoApplicationTests in 5.261 seconds (JVM running for 6.474) 
+2018-07-11 10:22:57 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ Starting SpringBootDemoApplication on wanglongxu-PC with PID 1272 (D:\github\spring-boot-demo\target\classes started by wanglongxu in D:\github\spring-boot-demo) 
+2018-07-11 10:22:57 [restartedMain] DEBUG c.d.s.SpringBootDemoApplication : 
+ Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE 
+2018-07-11 10:22:57 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-07-11 10:23:03 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ Started SpringBootDemoApplication in 6.537 seconds (JVM running for 7.971) 
+2018-07-11 10:25:06 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ Starting SpringBootDemoApplication on wanglongxu-PC with PID 7056 (D:\github\spring-boot-demo\target\classes started by wanglongxu in D:\github\spring-boot-demo) 
+2018-07-11 10:25:06 [restartedMain] DEBUG c.d.s.SpringBootDemoApplication : 
+ Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE 
+2018-07-11 10:25:06 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-07-11 10:25:12 [restartedMain] INFO  c.d.s.SpringBootDemoApplication : 
+ Started SpringBootDemoApplication in 6.726 seconds (JVM running for 8.068) 
+2018-07-11 10:25:19 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==>  Preparing: select * from user WHERE name=?  
+2018-07-11 10:25:19 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ ==> Parameters: xiaohong2(String) 
+2018-07-11 10:25:19 [http-nio-8080-exec-1] DEBUG c.d.s.mapper.UserMapper.findOne : 
+ <==      Total: 1 
+2018-07-11 10:26:28 [main] INFO  c.d.s.SpringBootDemoApplicationTests : 
+ Starting SpringBootDemoApplicationTests on wanglongxu-PC with PID 5660 (started by wanglongxu in D:\github\spring-boot-demo) 
+2018-07-11 10:26:28 [main] DEBUG c.d.s.SpringBootDemoApplicationTests : 
+ Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE 
+2018-07-11 10:26:28 [main] INFO  c.d.s.SpringBootDemoApplicationTests : 
+ No active profile set, falling back to default profiles: default 
+2018-07-11 10:26:32 [main] INFO  c.d.s.SpringBootDemoApplicationTests : 
+ Started SpringBootDemoApplicationTests in 5.09 seconds (JVM running for 6.064) 
